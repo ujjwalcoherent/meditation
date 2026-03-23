@@ -35,14 +35,10 @@ export function createMockData(): ComparisonData {
         all_geographies: ['Global']
       },
       segments: {
-        'By End-Use*Product Type': {
-          type: 'hierarchical',
-          items: [],
-          hierarchy: {},
-          b2b_hierarchy: {},
-          b2c_hierarchy: {},
-          b2b_items: [],
-          b2c_items: []
+        'By Type': {
+          type: 'flat',
+          items: ['Mindfulness Meditation', 'Guided Meditation', 'Spiritual Meditation', 'Transcendental Meditation', 'Yoga/Movement Meditation', 'Others (Mantra meditation, etc.)'],
+          hierarchy: {}
         }
       }
     },

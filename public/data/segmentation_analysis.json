@@ -1,28 +1,46 @@
 {
   "Global": {
     "By Type": {
-      "Sub-Normothermic Perfusion (20–34°C)": {},
-      "Warm or Normothermic Perfusion (35–37°C)": {}
+      "Mindfulness Meditation": {},
+      "Guided Meditation": {},
+      "Spiritual Meditation": {},
+      "Transcendental Meditation": {},
+      "Yoga/Movement Meditation": {},
+      "Others (Mantra meditation, etc.)": {}
     },
-    "By Organ Type": {
-      "Liver": {},
-      "Heart": {},
-      "Lung": {},
-      "Kidney": {},
-      "Others (Pancreas, Small bowel / Intestine, Composite Tissues / Limb Perfusion (emerging use cases))": {}
+    "By Offering": {
+      "Meditation Apps and Digital Offerings": {
+        "Subscription-Based": {},
+        "Freemium Apps": {}
+      },
+      "Meditation Technology and Devices": {}
     },
-    "Application / Use Case": {
-      "Organ Preservation": {},
-      "Viability Assessment": {},
-      "Physiologic Transport": {},
-      "Reconditioning Marginal Organs": {},
-      "Others (Research Use / Protocol development)": {}
+    "By Deployment Type": {
+      "Cloud Based": {},
+      "On-Premise": {},
+      "Hybrid": {}
+    },
+    "By Application": {
+      "Stress and Anxiety Reduction": {},
+      "Sleep Improvement": {},
+      "Focus and Cognitive Enhancement": {},
+      "Emotional Well-being and Resilience": {},
+      "Spiritual Growth and Self-Discovery": {},
+      "Addiction Recovery": {},
+      "Pain Management": {},
+      "Performance Enhancement": {},
+      "Other Therapeutic Applications": {}
+    },
+    "By Age Group": {
+      "Pediatrics": {},
+      "Adults": {},
+      "Geriatric": {}
     },
     "By End User": {
-      "Hospitals & Clinics": {},
-      "Specialty Clinic/Centers": {},
-      "Transplant Centers": {},
-      "Others (Research Institutes/Centers, Organ Procurement Organizations, etc.)": {}
+      "Individuals": {},
+      "Healthcare Providers": {},
+      "Employee Wellness Programs": {},
+      "Others (Educational Institutions, etc.)": {}
     },
     "By Region": {
       "North America": {
